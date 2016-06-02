@@ -1,3 +1,0 @@
-pysudocode can be done in this file:
- Make sure to:
-               follow the template of pysudocode on blackboard
